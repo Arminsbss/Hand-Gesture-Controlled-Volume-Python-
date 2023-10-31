@@ -2,8 +2,6 @@
 
 ---
 
-# Hand Gesture Controlled Volume (Python)
-
 ![Demo GIF](demo.gif) 
 
 ## Overview
