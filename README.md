@@ -57,10 +57,6 @@ python main.py
 
 You can adjust the volume control sensitivity and customize the appearance of the volume bar by modifying the code. Look for the comments in the code that indicate where these adjustments can be made.
 
-## Demo
-
-Include a GIF or video demonstrating the script in action. You can place this at the top of your README to grab users' attention.
-
 ## Contributions
 
 Contributions are welcome! If you have ideas for improvements, please open an issue or create a pull request.
