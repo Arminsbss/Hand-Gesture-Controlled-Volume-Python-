@@ -1,5 +1,5 @@
 # Hand-Gesture-Controlled-Volume-Python-
-https://youtu.be/sCuLoIY_F7s
+See tutorial in my youtube channel: https://youtu.be/sCuLoIY_F7s
 ---
 
 ![Demo GIF](121212.png) 
