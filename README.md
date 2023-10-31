@@ -1,8 +1,8 @@
 # Hand-Gesture-Controlled-Volume-Python-
-
+https://youtu.be/sCuLoIY_F7s
 ---
 
-![Demo GIF](demo.gif) 
+![Demo GIF](121212.png) 
 
 ## Overview
 
